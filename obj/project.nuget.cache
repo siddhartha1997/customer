@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g+doqIvUOTVHf7nKI+dtQ4F4L01C8k8YxHcLn167vlGguY8rlj1ebS1XPM3iaDNDkFU7QmmikfHm/0JplymdXg==",
+  "dgSpecHash": "2XMTxzzTQXXNbEl6X9n4ixl97M7jeep7VLkadsRn9u8uEkWVHnrNF8FxtO/4wJuS76Nd4pfBpsFSNIxGw0+l4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\CustomerMicroservice\\CustomerMicroservice.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

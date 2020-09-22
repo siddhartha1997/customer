@@ -13,8 +13,10 @@ C:\Users\user\source\repos\CustomerMicroservice\bin\Debug\netcoreapp3.1\Customer
 C:\Users\user\source\repos\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
 C:\Users\user\source\repos\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
 C:\Users\user\source\repos\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
-C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.dll
 C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.pdb
 C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.genruntimeconfig.cache
+C:\Users\user\source\repos\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CopyComplete
